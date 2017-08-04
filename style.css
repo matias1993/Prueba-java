@@ -1,0 +1,137 @@
+#my-twitter {
+	text-align: center;
+	color:white;
+    font-family: 'Droid Serif', serif;
+
+}
+#container-one {
+	background-color:#C6E2CF;
+	width: 100%;
+	border-style: ridge;
+	height: 68px;
+	box-sizing: border-box;
+
+}
+.tweetuser{
+
+ background-color:#78FF2A;
+}
+.vista { 
+	background-color:#DCE2DB;
+	box-sizing: border-box;
+}
+img {
+	width: 130px; 
+	border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%; 
+	border: 15px solid #101916;
+	padding-top: 17px;
+	box-sizing: border-box;
+}
+.title-maty
+{ margin-left: 3rem;
+  font-size: 3vh;
+  text-align: center; }
+#parrf {
+	padding-top: 10px;
+	color: #EFFDFF;
+	text-align: center;
+}
+#profile{
+	background-color:#24DBDE;
+	margin-left: 0px;
+	margin-top: 20px;
+	border-style: ridge;
+	height: 300px;
+}
+.info-profile{
+	float: left;
+	padding-top: 5px;
+	padding-left:70px;
+	color:#E8FFFC;
+    font-family: 'Droid Serif', serif;
+    font-size: 2vh;
+}
+.forms{
+	float: left;
+	padding-top: 15px;
+ }
+.top-timeline-tweet-box-user-image{
+	left: 28px;
+	position: absolute;
+	top:13px;
+}
+.size32{
+	width: 38px;
+	height: 60px;
+	margin-left: -18px;
+}
+
+#profile-two{
+	background-color:#C6E2CF;
+	margin-left: 0px;
+	margin-top: 20px;
+	
+	height: 130px;
+	float: left;
+	}
+
+
+.form1{
+	margin-top: 15px;
+	padding-left: 35px;
+}
+ #btn{
+	float: right;
+	background-color:#2577DE;
+
+}
+#seccion-1,#seccion-2,#seccion-3, #seccion-4{
+	background-color:white;
+	height: 450px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	overflow: auto;
+
+	} 
+#photo-1,#photo-2,#photo-3{
+	position: relative;
+	height: 235px;
+	width: 95%; 
+}
+#person-1 ,#person-2 ,#person-3{
+	height: 75px;
+	width: 60px;
+}
+.tweet-parr{
+	text-align: center;
+}
+#parr-2{
+	padding-left:37px;
+}
+#parr-3{
+	padding-left: 60px;
+}
+.if {
+	padding-top: 8px;
+}
+footer{
+	width: 100%;
+	height: 10%;
+	background-color: rgba(0,0,0,07);
+	text-align: center;
+	bottom:0;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+p.texto{
+	font-size: 30px;
+}
+#pin{
+	background-color: #C6E2CF;
+	border-radius: 100%;
+	width: 56px;
+	height: 40px;
+}
+
